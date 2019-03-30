@@ -1,0 +1,17 @@
+{
+    "name": "motniemtin/musicxml",
+    "description": "MusicXML parser for php",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Lam Nguyen",
+            "email": "motniemtin@gmail.com"
+        }
+    ],
+    "require": {},  
+    "autoload": {
+        "psr-0": {
+            "Motniemtin\\MusicXML": "src/"
+        }
+    }
+}
