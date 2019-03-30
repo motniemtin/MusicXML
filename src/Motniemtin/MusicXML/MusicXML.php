@@ -1,5 +1,6 @@
 <?php
 namespace Motniemtin\MusicXML;
+
 class MusicXML{
   var $xml;
   function __construct($xmlPath){
